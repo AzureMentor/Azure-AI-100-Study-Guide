@@ -15,8 +15,13 @@
 - implement Azure Search in a solution
 
 ## Monitor and evaluate the AI environment
-- identify the differences between KPIs, reported metrics, and root causes of the differences
-- identify the differences between expected and actual workflow throughput
+- identify the differences between:
+    - KPIs
+    - reported metrics
+    - root causes of the differences
+- identify the differences between:
+    - expected workflow throughput
+    - actual workflow throughput
 - maintain an AI solution for continuous improvement
 - monitor AI components for availability
 - recommend changes to an AI solution based on performance data
