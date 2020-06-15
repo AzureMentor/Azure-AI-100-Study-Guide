@@ -1,25 +1,25 @@
 # AI-100: Analyze solution requirements (25-30%)
 
 ## Recommend Cognitive Services APIs to meet business requirements
-- select the processing architecture for a solution
-- select the appropriate data processing technologies
-- select the appropriate AI models and services
-- identify components and technologies required to connect service endpoints
-- identify automation requirements
+- Select the processing architecture for a solution
+- Select the appropriate data processing technologies
+- Select the appropriate AI models and services
+- Identify components and technologies required to connect service endpoints
+- Identify automation requirements
 
 ## Map security requirements to tools, technologies, and processes
-- identify processes and regulations needed to conform with:
+- Identify processes and regulations needed to conform with:
     - data privacy
     - protection
     - regulatory requirements
-- identify which users and groups have access to information and interfaces
-- identify appropriate tools for a solution
-- identify auditing requirements
+- Identify which users and groups have access to information and interfaces
+- Identify appropriate tools for a solution
+- Identify auditing requirements
 
 ## Select the software, services, and storage required to support a solution
-- identify appropriate services and tools for a solution
-- identify integration points with other Microsoft services
-- identify storage required to store:
+- Identify appropriate services and tools for a solution
+- Identify integration points with other Microsoft services
+- Identify storage required to store:
     - logging
     - bot state data
     - Cognitive Services output
