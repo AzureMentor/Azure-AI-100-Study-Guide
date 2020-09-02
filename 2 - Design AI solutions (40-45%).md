@@ -2,6 +2,9 @@
 
 ## Design solutions that include one or more pipelines
 - Define an AI application workflow process
+    - [What are Azure Machine Learning pipelines?
+](https://docs.microsoft.com/en-us/azure/machine-learning/concept-ml-pipelines)
+    - [What is Azure Machine Learning designer (preview)?](https://docs.microsoft.com/en-us/azure/machine-learning/concept-designer)
 - Design a strategy for ingest and egress data
 - Design the integration point between multiple workflows and pipelines
 - Design pipelines that use AI apps
