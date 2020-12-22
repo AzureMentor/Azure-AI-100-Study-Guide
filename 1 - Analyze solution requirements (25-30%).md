@@ -31,7 +31,11 @@
     - [Azure Logic Apps](https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-overview)
 - Identify storage required to store:
     - logging
-    - bot state data
+        - [Application Insights](https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview)
+        - [Azure Blob Storage](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blobs-introduction)
+        - [Azure Cosmos DB](https://docs.microsoft.com/en-us/azure/cosmos-db/)
+        - [Power BI](https://docs.microsoft.com/en-us/power-bi/)
+    - [bot state data](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/ai/conversational-bot#core-bot-logic-and-ux)
     - Cognitive Services output
     - [Understand data store models](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/data-store-overview)
     - [Use the best data store for the job](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/use-the-best-data-store)
